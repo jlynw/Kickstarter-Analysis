@@ -7,7 +7,7 @@ The purpose of this to organize the data in a way that will allow us to observe 
 
 The pivot table shows the outcomes of theater campaigns based on their launch date. "Parent Category" and "Years" were added to Filter to enable us to see theater campaigns only. "Outcomes" were added to Columns and Values to see the number of successful, failed, and canceled campaigns. "Date Created Conversion" was added to Rows to see the number of outcomes sorted by months.
 
-![screenshot_outcomes_vs_date_pivot.png](https://github.com/jlynw/Kickstarter-Analysis/blob/main/Screenshots/screenshot_outcomes_vs_date_pivot.PNG)
+![screenshot_outcomes_vs_date_pivot.png](https://github.com/jlynw/Kickstarter-Analysis/blob/main/Resources/screenshot_outcomes_vs_date_pivot.PNG)
 
 This pivot table was then used to create a visualization of trends of outcomes based on launch date. We can see the three trends of outcomes based on date.
 ![Theater_Outcomes_vs_Launch.png](https://github.com/jlynw/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
@@ -16,7 +16,7 @@ This pivot table was then used to create a visualization of trends of outcomes b
 ### Analysis of Outcomes Based on Goals
 
 The table below shows an analysis of successful, failed, and canceled campaigns. This was created by using the "=COUNTIF ()" function to obtain the number of successful, failed, and canceled outcomes based on the campaign goal from the Kickstarter worksheet. The counts of outcomes were then used to calculate the percentages of outcomes based on the goal.
-![screenshot_outcomes_vs_goals.png](https://github.com/jlynw/Kickstarter-Analysis/blob/main/Screenshots/screenshot_outcomes_vs_goals.PNG)
+![screenshot_outcomes_vs_goals.png](https://github.com/jlynw/Kickstarter-Analysis/blob/main/Resources/screenshot_outcomes_vs_goals.PNG)
 
 The calculations from the table pictured above was used to create a visualiztion of the three types of outcomes based on the twelve different goals.
 ![Outcomes_Based on Goals.png](https://github.com/jlynw/Kickstarter-Analysis/blob/main/Resources/Outcomes%20Based%20on%20Goals.png)
